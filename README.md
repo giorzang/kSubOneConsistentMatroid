@@ -107,7 +107,7 @@ Experiments are typically executed on a binary `tinyGraph` format for faster I/O
 Example preprocessing:
 
 ```bash
-./preprockic input_edges.txt output.bin K undirected randomize_node seed
+./preprockic input_edges.txt input_part.txt output.bin K undirected randomize_node seed
 ```
 
 ---
