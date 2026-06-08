@@ -1,4 +1,4 @@
-# README — One-Consistent Algorithm for k-submodular Maximization under Matroid
+# README — One-Consistent Algorithm for k-submodular Maximization under Matroid Constraint
 
 ## 1. Overview
 
@@ -107,7 +107,7 @@ Experiments are typically executed on a binary `tinyGraph` format for faster I/O
 Example preprocessing:
 
 ```bash
-./preproc input_edges.txt output.bin K undirected randomize_node seed
+./preprockic input_edges.txt output.bin K undirected randomize_node seed
 ```
 
 ---
